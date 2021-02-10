@@ -9,6 +9,3 @@ class Solution {
        }
     }
 }
-
-"ujtey gggj wxnfl"
-"nstse nrzt tikoy"
